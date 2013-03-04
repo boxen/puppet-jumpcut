@@ -6,8 +6,7 @@ See http://jumpcut.sourceforge.net/ for more.
 
 ## Usage
 
-```include jumpcut
-```
+```include jumpcut```
 
 
 ## Development
