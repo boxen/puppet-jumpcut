@@ -1,7 +1,5 @@
 # Public: Install Jumpcut to /Applications.
 #
-# Examples
-#
 # include jumpcut
 class jumpcut {
   package { 'Jumpcut':
